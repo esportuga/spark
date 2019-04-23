@@ -1,4 +1,4 @@
-# Instroducao ao Spark com Google Collab
+# Introducao ao Spark com Google Collab
 
 <h2>Configuração do Google Collab</h2>
 
